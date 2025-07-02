@@ -1,7 +1,7 @@
 
 # LLM Based Gazette Extractor
 
-This project is specific for Sri Lankan Gazette Data Extraction. Mainly for Ministry/Department gazettes and People gazettes that assign Ministers, State Ministers, Deputy Ministers and Secretaries to ministries.
+This project is specific for Sri Lankan Gazette Data Extraction. Mainly for Ministry/Department extra ordinary gazettes, amendments and People gazettes that assign Ministers, State Ministers, Deputy Ministers and Secretaries to ministries.
 
 ## Features
 
