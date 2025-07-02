@@ -1,0 +1,173 @@
+{
+  "ADD": [
+    {
+      "name": "Dinesh Chandra Rupasingha Gunawardena",
+      "Ministry": "Office of the Prime Minister",
+      "date": "2022-07-22",
+      "position": "Prime Minister"
+    },
+    {
+      "name": "Dinesh Chandra Rupasingha Gunawardena",
+      "Ministry": "Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Douglas Devananda",
+      "Ministry": "Ministry of Fisheries",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Achchige Don Susil Premajayanth",
+      "Ministry": "Ministry of Education",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Bandula Gunawardena",
+      "Ministry": "Ministry of Transport and Highways",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Keheliya Rambukwella",
+      "Ministry": "Ministry of Health",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Amaraweera Mahinda",
+      "Ministry": "Ministry of Agriculture",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Wijayadasa Rajapaksha",
+      "Ministry": "Ministry of Justice, Prison Affairs and Constitutional Reforms",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Nalaka Jude Hareen Fernando",
+      "Ministry": "Ministry of Tourism and Lands",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Ramesh Pathirana",
+      "Ministry": "Ministry of Plantation Industries",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Prasanna Ranatunga",
+      "Ministry": "Ministry of Urban Development and Housing",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "M. U. M. Ali Sabri",
+      "Ministry": "Ministry of Foreign Affairs",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Vidura Wikramanayaka",
+      "Ministry": "Ministry of Buddhasasana, Religious and Cultural Affairs",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Kanchana Wijesekera",
+      "Ministry": "Ministry of Power and Energy",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Ahamed Zenulabdeen Naseer",
+      "Ministry": "Ministry of Environment",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Anuruddha Ranasinghe Arachchige Roshan",
+      "Ministry": "Ministry of Sports and Youth Affairs",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Maligaspe Koralege Nalin Manusha Nanayakkara",
+      "Ministry": "Ministry of Labour and Foreign Employment",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Tiran Alles",
+      "Ministry": "Ministry of Public Security",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Kachchakaduge Nalin Ruwanjiwa Fernando",
+      "Ministry": "Ministry of Trade, Commerce and Food Security",
+      "date": "2022-07-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Anura Dissanayaka",
+      "Ministry": "Prime Minister's Office",
+      "date": "2022-07-22",
+      "position": "Secretary"
+    },
+    {
+      "name": "W. M. D. J. Fernando",
+      "Ministry": "Cabinet of Ministers",
+      "date": "2022-07-22",
+      "position": "Secretary"
+    },
+    {
+      "name": "R. W. R. Pemasiri",
+      "Ministry": "Ministry of Transport and Highways",
+      "date": "2022-07-22",
+      "position": "Secretary"
+    },
+    {
+      "name": "M. M. P. K. Mayadunne",
+      "Ministry": "Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government",
+      "date": "2022-07-22",
+      "position": "Secretary"
+    },
+    {
+      "name": "K. D. S. Ruwanchandra",
+      "Ministry": "Ministry of Ports, Shipping and Aviation",
+      "date": "2022-07-22",
+      "position": "Secretary"
+    },
+    {
+      "name": "Mr. R. P. A. Wimalaweera",
+      "Ministry": "Ministry of Labour and Foreign Employment",
+      "date": "2022-07-26",
+      "position": "Secretary"
+    },
+    {
+      "name": "Dr. Amal Harsha de Silva",
+      "Ministry": "Ministry of Sports and Youth Affairs",
+      "date": "2022-07-26",
+      "position": "Secretary"
+    },
+    {
+      "name": "Ms. J. M. T. Jayasundara",
+      "Ministry": "Ministry of Industries",
+      "date": "2022-07-26",
+      "position": "Secretary"
+    },
+    {
+      "name": "Prof. N. D. Gunawardana",
+      "Ministry": "Ministry of Technology",
+      "date": "2022-07-26",
+      "position": "Secretary"
+    }
+  ],
+  "TERMINATE": []
+}

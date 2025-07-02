@@ -1,0 +1,65 @@
+{
+  "ADD": [
+    {
+      "name": "Hon. Ranil Wickramasinghe",
+      "Ministry": "Ministry of Law and Order",
+      "date": "2018-02-25",
+      "position": "Minister"
+    },
+    {
+      "name": "Hon. Lakshman Kiriella",
+      "Ministry": "Ministry of Public Enterprises and Kandy Development",
+      "date": "2018-02-25",
+      "position": "Minister"
+    },
+    {
+      "name": "Hon. Mohamed Hashim Mohamed Kabir",
+      "Ministry": "Ministry of Higher Education and Highways",
+      "date": "2018-02-25",
+      "position": "Minister"
+    },
+    {
+      "name": "Hon. Sagala Gajendra Rathnayake",
+      "Ministry": "Ministry of Project Management, Youth Affairs and Southern Development",
+      "date": "2018-02-25",
+      "position": "Minister"
+    },
+    {
+      "name": "Hon. Harin Fernando",
+      "Ministry": "Ministry of Telecommunication, Digital Infrastructure and Foreign Employment",
+      "date": "2018-02-25",
+      "position": "Minister"
+    },
+    {
+      "name": "Hon. Ravindra Samaraweera",
+      "Ministry": "Ministry of Sustainable Development and Wildlife",
+      "date": "2018-02-25",
+      "position": "Minister"
+    },
+    {
+      "name": "Hon. Piyasena Gamage",
+      "Ministry": "Project Management, Youth Affairs and Southern Development",
+      "date": "2018-02-25",
+      "position": "State Minister"
+    },
+    {
+      "name": "Hon. Harsha de Silva",
+      "Ministry": "National Policies and Economic Affairs",
+      "date": "2018-02-25",
+      "position": "State Minister"
+    },
+    {
+      "name": "Hon. Ajith Pathmakantha Perera",
+      "Ministry": "Power and Renewable Energy",
+      "date": "2018-02-25",
+      "position": "State Minister"
+    },
+    {
+      "name": "Hon. J. C. Alawathuwala",
+      "Ministry": "Home Affairs",
+      "date": "2018-02-25",
+      "position": "Deputy Minister"
+    }
+  ],
+  "TERMINATE": []
+}
