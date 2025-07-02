@@ -1,10 +1,10 @@
 {
   "ADD": [
     {
-      "ministry_name": "Notification",
-      "affected_column": "I",
+      "ministry_name": "Notification Amendments",
+      "affected_column": "III",
       "details": [
-        "Inserted: Department of Immigration"
+        "Amendment to notification issued under Article 44 of the Constitution"
       ]
     },
     {
@@ -56,13 +56,6 @@
     }
   ],
   "OMIT": [
-    {
-      "ministry_name": "Notification",
-      "affected_column": "II",
-      "details": [
-        "Omitted item 11"
-      ]
-    },
     {
       "ministry_name": "Minister of Defence",
       "affected_column": "I",
@@ -129,52 +122,45 @@
   ],
   "RENUMBER": [
     {
-      "ministry_name": "Notification",
-      "affected_column": "II",
-      "details": [
-        "Renumbered items 10–13 as 11–14"
-      ]
-    },
-    {
       "ministry_name": "Minister of Defence",
       "affected_column": "I",
       "details": [
-        "Renumbered items 17 to 28 as 16 to 27"
+        "Renumbered items 17-28 as 16-27"
       ]
     },
     {
       "ministry_name": "Minister of Defence",
       "affected_column": "II",
       "details": [
-        "Renumbered items 20 to 28 as 19 to 27"
+        "Renumbered items 20-28 as 19-27"
       ]
     },
     {
       "ministry_name": "Minister of Technology",
       "affected_column": "I",
       "details": [
-        "Renumbered items 12 and 13 as 11 and 12"
+        "Renumbered items 12-13 as 11-12"
       ]
     },
     {
       "ministry_name": "Minister of Investment Promotion",
       "affected_column": "I",
       "details": [
-        "Renumbered items 8 to 13 as 7 to 12"
+        "Renumbered items 8-13 as 7-12"
       ]
     },
     {
       "ministry_name": "Minister of Investment Promotion",
       "affected_column": "II",
       "details": [
-        "Renumbered items 2 to 7 as 1 to 6"
+        "Renumbered items 2-7 as 1-6"
       ]
     },
     {
       "ministry_name": "Minister of Public Security",
       "affected_column": "I",
       "details": [
-        "Renumbered items 10-11 as 13-14"
+        "Renumbered items 10–11 as 13–14"
       ]
     }
   ]
