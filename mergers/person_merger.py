@@ -19,7 +19,7 @@ def merge_person(response_list):
                 merged["TERMINATE"].extend(data["TERMINATE"])
 
         except json.JSONDecodeError:
-            print("Warning: Skipped invalid JSON chunk")
+            print("Warning: Skipped invalid JSON chunk") 
         except Exception as e:
             print(f"Unexpected error: {e}")
 

@@ -1,0 +1,30 @@
+{
+  "ADD": [
+    {
+      "name": "Murugesu Ganeshamoorthy",
+      "Ministry": "Ministry of National Integration & Reconciliation",
+      "date": "2015-11-09",
+      "position": "Secretary"
+    },
+    {
+      "name": "D. M. Swaminathan",
+      "Ministry": "Ministry of Prison Reforms, Rehabilitation, Resettlement & Hindu Religious Affairs",
+      "date": "2015-11-11",
+      "position": "Minister"
+    },
+    {
+      "name": "Sagala Gajendra Ratnayaka",
+      "Ministry": "Ministry of Law & Order and Southern Development",
+      "date": "2015-11-19",
+      "position": "Minister"
+    }
+  ],
+  "TERMINATE": [
+    {
+      "name": "Thilak Janaka Marapana",
+      "Ministry": "Ministry of Law & Order and Prison Reforms",
+      "date": "2015-11-09",
+      "position": "Minister"
+    }
+  ]
+}

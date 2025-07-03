@@ -37,7 +37,7 @@ This project is specific for Sri Lankan Gazette Data Extraction. Mainly for Mini
 ```http
   python cli.py --type ministry-initial --pdf path_to_pdf --output output_directory
 
-  --type   [ministry-inital, ministry-amenment, persons]
+  --type   [ministry-inital, ministry-amendment, persons]
   --pdf  [path to the pdf]
   --output (optional)   [output directory] default /outputs
 ```

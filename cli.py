@@ -5,7 +5,7 @@ from main import run_pipeline
 
 def main():
     parser = argparse.ArgumentParser(description="Gazette PDF Extractor CLI")
-    parser.add_argument('--type', required=True, choices=['ministry-initial','ministry-amenment','persons'], help="Type of gazette to process")
+    parser.add_argument('--type', required=True, choices=['ministry-initial','ministry-amendment','persons'], help="Type of gazette to process")
     parser.add_argument('--pdf', required=True, help="Input PDF file path")
     parser.add_argument('--output', required=False, default='outputs/', help="Path to save the JSON output")
     

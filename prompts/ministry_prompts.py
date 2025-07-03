@@ -1,6 +1,15 @@
 INITIAL_PROMPT = """
 You are an assistant extracting structured data from an official Sri Lankan Government Gazette.
 
+### PAGE FILTERING RULES:
+
+- If the input page contains only preamble, boilerplate text, or notification headers (e.g., constitutional powers, gazette publication notice, or names of officials like “Anura Kumara Dissanayake”), DO NOT extract anything.
+
+- Only extract data if the page includes **structured amendment information** such as:
+  - A heading like: `No. XX. Minister of ...`
+  - A sentence starting with: `With reference to the Heading, “No. XX. Minister of ...”`
+  - Specific column change indicators like: `(a) In Column I thereof...`
+
 Each ministry includes three columns:
 - Column I: "Subjects and Functions"
 - Column II: "Departments, Statutory Institutions and Public Corporations"

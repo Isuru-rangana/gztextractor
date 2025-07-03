@@ -1,0 +1,66 @@
+{
+  "ADD": [
+    {
+      "ministry_name": "Minister of Investment Promotion",
+      "affected_column": "I",
+      "details": [
+        "Inserted: item 11 — Development of Colombo Port City Special Economic Zone as an International Business and Services Hub with specialized infrastructure and other facilities aimed at national interest and economic advancement"
+      ]
+    },
+    {
+      "ministry_name": "Minister of Investment Promotion",
+      "affected_column": "II",
+      "details": [
+        "Inserted: item 5 — Sri Lanka Export Development Board",
+        "Inserted: item 6 — Board of Investment of Sri Lanka",
+        "Inserted: item 7 — Colombo Port City Economic Commission"
+      ]
+    },
+    {
+      "ministry_name": "Minister of Investment Promotion",
+      "affected_column": "III",
+      "details": [
+        "after: Grant of Citizenship to Stateless Persons (Special Provisions) Act, No. 39 of 1988",
+        "Inserted: Sri Lanka Export Development Act No. 40 of 1979",
+        "Inserted: Greater Colombo Economic Commission Law No. 4 of 1978 (Board of Investment of Sri Lanka Law)",
+        "Inserted: Colombo Port City Economic Commission Act, No. 11 of 2021"
+      ]
+    }
+  ],
+  "OMIT": [
+    {
+      "ministry_name": "Minister of Finance, Economic Stabilization and National Policies",
+      "affected_column": "I",
+      "details": [
+        "Omitted: item 32"
+      ]
+    },
+    {
+      "ministry_name": "Minister of Finance, Economic Stabilization and National Policies",
+      "affected_column": "II",
+      "details": [
+        "Omitted: item 26",
+        "Omitted: item 50",
+        "Omitted: item 51"
+      ]
+    },
+    {
+      "ministry_name": "Minister of Finance, Economic Stabilization and National Policies",
+      "affected_column": "III",
+      "details": [
+        "Omitted: Sri Lanka Export Development Act No. 40 of 1979",
+        "Omitted: Greater Colombo Economic Commission Law No. 4 of 1978 (Board of Investment of Sri Lanka Law)",
+        "Omitted: Colombo Port City Economic Commission Act, No. 11 of 2021"
+      ]
+    }
+  ],
+  "RENUMBER": [
+    {
+      "ministry_name": "Minister of Investment Promotion",
+      "affected_column": "I",
+      "details": [
+        "Renumbered: items 11 as 12"
+      ]
+    }
+  ]
+}

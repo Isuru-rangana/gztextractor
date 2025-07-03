@@ -9,6 +9,7 @@ INITIAL_PROMPT = """You are an expert in extracting structured information from 
    - Gazette date in YYYY-MM-DD format
 
 Wrap your response in a single line of valid JSON. Do not return incomplete objects or extra text.
+Output valid, clean JSON only — no markdown, comments, or natural language.
 ### Required Output Format (Compact JSON):
 
 Appoinments include in "ADD" and Resignations include in "TERMINATE"

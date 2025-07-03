@@ -5,7 +5,7 @@ from extractors.ministry_amendment_extractor import MinistryAmendmentExtractor
 from extractors.ministry_extractor import MinistryExtractor
 from extractors.person_extractor import PersonExtractor
 from loaders.pdf_loader import PDFLoader
-from mergers.ministry_amenment_merger import group_by_change_type
+from mergers.ministry_amendment_merger import group_by_change_type
 from mergers.ministry_merger import merge_ministers
 from mergers.person_merger import merge_person
 
@@ -25,9 +25,10 @@ def run_pipeline(gazette_type: str, pdf_path: str, output_path: str):
         raw_result = extractor.extract(documents)
         final_result = merge_ministers(raw_result)
 
-    elif gazette_type == "ministry-amenment":
+    elif gazette_type == "ministry-amendment":
+        ad = PDFLoader(pdf_path).loadAmendment()
         extractor = MinistryAmendmentExtractor()
-        raw_result = extractor.extract(documents)
+        raw_result = extractor.extract(ad)
         final_result = group_by_change_type(raw_result)
     
     elif gazette_type == "persons":

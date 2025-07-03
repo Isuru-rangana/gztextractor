@@ -1,0 +1,36 @@
+{
+  "ADD": [
+    {
+      "name": "Ranil Wickremesinghe",
+      "Ministry": "Presidential Secretariat",
+      "date": "2023-12-22",
+      "position": "President"
+    },
+    {
+      "name": "Data Protection Authority of Sri Lanka",
+      "Ministry": "Minister of Technology",
+      "date": "2023-12-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Minister of Agriculture and Plantation Industries",
+      "Ministry": "Ministry of Agriculture and Plantation Industries",
+      "date": "2023-12-22",
+      "position": "Minister"
+    },
+    {
+      "name": "Department of Cinnamon Development",
+      "Ministry": "Ministry of Agriculture and Plantation Industries",
+      "date": "2023-12-22",
+      "position": "Secretary"
+    }
+  ],
+  "TERMINATE": [
+    {
+      "name": "Minister of Buddhasasana, Religious and Cultural Affairs",
+      "Ministry": "Ministry of Buddhasasana, Religious and Cultural Affairs",
+      "date": "2023-12-22",
+      "position": "Minister"
+    }
+  ]
+}

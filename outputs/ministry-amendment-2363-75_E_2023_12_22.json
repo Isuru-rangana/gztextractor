@@ -1,0 +1,35 @@
+{
+  "ADD": [
+    {
+      "ministry_name": "Minister of Technology",
+      "affected_column": "II",
+      "details": [
+        "Inserted: item 7 — Data Protection Authority of Sri Lanka"
+      ]
+    },
+    {
+      "ministry_name": "Minister of Agriculture and Plantation Industries",
+      "affected_column": "II",
+      "details": [
+        "Inserted: item 37 — Department of Cinnamon Development"
+      ]
+    }
+  ],
+  "OMIT": [
+    {
+      "ministry_name": "Minister of Buddhasasana, Religious and Cultural Affairs",
+      "affected_column": "II",
+      "details": [
+        "Omitted: item 7"
+      ]
+    },
+    {
+      "ministry_name": "Minister of Buddhasasana, Religious and Cultural Affairs",
+      "affected_column": "III",
+      "details": [
+        "Omitted: S. W. R. D. Bandaranaike National Memorial Foundation Act No. 48 of 1981"
+      ]
+    }
+  ],
+  "RENUMBER": []
+}
