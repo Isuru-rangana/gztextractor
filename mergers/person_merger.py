@@ -3,7 +3,8 @@ import json
 def merge_person(response_list):
     merged = {
         "ADD": [],
-        "TERMINATE": []
+        "TERMINATE": [],
+        "RENAME": []
     }
 
     for res_str in response_list:
@@ -17,6 +18,8 @@ def merge_person(response_list):
                 merged["ADD"].extend(data["ADD"])
             if "TERMINATE" in data:
                 merged["TERMINATE"].extend(data["TERMINATE"])
+            if "RENAME" in data:
+                merged["RENAME"].extend(data["RENAME"])
 
         except json.JSONDecodeError:
             print("Warning: Skipped invalid JSON chunk") 

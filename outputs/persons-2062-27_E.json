@@ -38,28 +38,29 @@
     },
     {
       "name": "Hon. Piyasena Gamage",
-      "Ministry": "Project Management, Youth Affairs and Southern Development",
+      "Ministry": "State Minister of Project Management, Youth Affairs and Southern Development",
       "date": "2018-02-25",
       "position": "State Minister"
     },
     {
       "name": "Hon. Harsha de Silva",
-      "Ministry": "National Policies and Economic Affairs",
+      "Ministry": "State Minister of National Policies and Economic Affairs",
       "date": "2018-02-25",
       "position": "State Minister"
     },
     {
       "name": "Hon. Ajith Pathmakantha Perera",
-      "Ministry": "Power and Renewable Energy",
+      "Ministry": "State Minister of Power and Renewable Energy",
       "date": "2018-02-25",
       "position": "State Minister"
     },
     {
       "name": "Hon. J. C. Alawathuwala",
-      "Ministry": "Home Affairs",
+      "Ministry": "Deputy Minister of Home Affairs",
       "date": "2018-02-25",
       "position": "Deputy Minister"
     }
   ],
-  "TERMINATE": []
+  "TERMINATE": [],
+  "RENAME": []
 }

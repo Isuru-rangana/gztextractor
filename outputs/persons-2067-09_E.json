@@ -2,37 +2,37 @@
   "ADD": [
     {
       "name": "Hon. Dr. Sarath Amunugama",
-      "Ministry": "Ministry of Science, Technology & Research",
+      "Ministry": "Minister of Science, Technology & Research",
       "date": "2018-04-12",
       "position": "Minister"
     },
     {
       "name": "Hon. Dr. Sarath Amunugama",
-      "Ministry": "Ministry of Skills Development & Vocational Training",
+      "Ministry": "Minister of Skills Development & Vocational Training",
       "date": "2018-04-12",
       "position": "Minister"
     },
     {
       "name": "Hon. Ranjith Siyambalapitiya",
-      "Ministry": "Ministry of Disaster Management",
+      "Ministry": "Minister of Disaster Management",
       "date": "2018-04-12",
       "position": "Minister"
     },
     {
       "name": "Hon. Faiszer Musthapha",
-      "Ministry": "Ministry of Sports",
+      "Ministry": "Minister of Sports",
       "date": "2018-04-12",
       "position": "Minister"
     },
     {
       "name": "Hon. Malik Samarawickrema",
-      "Ministry": "Ministry of Social Empowerment, Welfare & Kandyan Heritage",
+      "Ministry": "Minister of Social Empowerment, Welfare & Kandyan Heritage",
       "date": "2018-04-12",
       "position": "Minister"
     },
     {
       "name": "Hon. Malik Samarawickrema",
-      "Ministry": "Ministry of Labour, Trade Union Relations and Sabaragamu Development",
+      "Ministry": "Minister of Labour, Trade Union Relations and Sabaragamu Development",
       "date": "2018-04-12",
       "position": "Minister"
     }
@@ -40,39 +40,40 @@
   "TERMINATE": [
     {
       "name": "S. B. Dissanayake",
-      "Ministry": "Ministry of Social Empowerment, Welfare & Kandyan Heritage",
+      "Ministry": "Minister of Social Empowerment, Welfare & Kandyan Heritage",
       "date": "2018-04-19",
       "position": "Minister"
     },
     {
       "name": "W. D. J. Senevirathna",
-      "Ministry": "Ministry of Labour, Trade Union Relations & Sabaragamu Development",
+      "Ministry": "Minister of Labour, Trade Union Relations & Sabaragamu Development",
       "date": "2018-04-19",
       "position": "Minister"
     },
     {
       "name": "Anura Priyadarshana Yapa",
-      "Ministry": "Ministry of Disaster Management",
+      "Ministry": "Minister of Disaster Management",
       "date": "2018-04-19",
       "position": "Minister"
     },
     {
       "name": "A. D. Susil Premajayantha",
-      "Ministry": "Ministry of Science, Technology & Research",
+      "Ministry": "Minister of Science, Technology & Research",
       "date": "2018-04-19",
       "position": "Minister"
     },
     {
       "name": "Chandima Weerakkody",
-      "Ministry": "Ministry of Skills Development & Vocational Training",
+      "Ministry": "Minister of Skills Development & Vocational Training",
       "date": "2018-04-19",
       "position": "Minister"
     },
     {
       "name": "Dayasiri Jayasekara",
-      "Ministry": "Ministry of Sports",
+      "Ministry": "Minister of Sports",
       "date": "2018-04-19",
       "position": "Minister"
     }
-  ]
+  ],
+  "RENAME": []
 }

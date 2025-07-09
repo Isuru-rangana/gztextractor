@@ -1,0 +1,41 @@
+{
+  "ADD": [],
+  "TERMINATE": [],
+  "RENAME": [
+    {
+      "name": "Gamini Jayawickrema Perera",
+      "old ministry": "Minister of Sustainable Development & Wildlife",
+      "new ministry": "Minister of Sustainable Development & Wildlife",
+      "date": "2015-09-21",
+      "position": "Minister"
+    },
+    {
+      "name": "Susil Premajayantha",
+      "old ministry": "Minister of Technology, Technical Education & Employment",
+      "new ministry": "Minister of Science, Technology & Research",
+      "date": "2015-09-21",
+      "position": "Minister"
+    },
+    {
+      "name": "Chandima Weerakkody",
+      "old ministry": "Minister of Petroleum & Gas",
+      "new ministry": "Minister of Petroleum Resources Development",
+      "date": "2015-09-21",
+      "position": "Minister"
+    },
+    {
+      "name": "Sumedha G. Jayasena",
+      "old ministry": "Deputy Minister of Sustainable Development & Wildlife",
+      "new ministry": "Deputy Minister of Sustainable Development & Wildlife",
+      "date": "2015-09-21",
+      "position": "Deputy Minister"
+    },
+    {
+      "name": "Anoma Gamage",
+      "old ministry": "Deputy Minister of Petroleum & Petroleum Gas Affairs",
+      "new ministry": "Deputy Minister of Petroleum Reources Development",
+      "date": "2015-09-21",
+      "position": "Deputy Minister"
+    }
+  ]
+}
