@@ -39,3 +39,5 @@ dist/
 
 # pytest
 .pytest_cache/
+
+outputs/
