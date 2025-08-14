@@ -2,11 +2,11 @@
 Extractors module for processing different types of gazette content.
 """
 
-from .base_extractor import BaseExtractor
-from .ministry_extractor import MinistryExtractor
-from .ministry_amendment_extractor import MinistryAmendmentExtractor
-from .ministry_amendment_and_table_extractor import MinistryAmendmentTableExtractor
-from .person_extractor import PersonExtractor
+from gztextractor.extractors.base_extractor import BaseExtractor
+from gztextractor.extractors.ministry_extractor import MinistryExtractor
+from gztextractor.extractors.ministry_amendment_extractor import MinistryAmendmentExtractor
+from gztextractor.extractors.ministry_amendment_and_table_extractor import MinistryAmendmentTableExtractor
+from gztextractor.extractors.person_extractor import PersonExtractor
 
 __all__ = [
     "BaseExtractor",

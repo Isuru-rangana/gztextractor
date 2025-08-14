@@ -1,6 +1,6 @@
 import json
-from .base_extractor import BaseExtractor
-from ..prompts.ministry_amendment_prompts import INITIAL_PROMPT
+from gztextractor.extractors.base_extractor import BaseExtractor
+from gztextractor.prompts.ministry_amendment_prompts import INITIAL_PROMPT
 from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser

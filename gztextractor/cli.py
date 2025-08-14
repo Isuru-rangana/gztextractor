@@ -1,7 +1,7 @@
 import argparse
 from yaspin import yaspin
 
-from .main import run_pipeline
+from gztextractor.main import run_pipeline
 
 def main():
     parser = argparse.ArgumentParser(description="Gazette PDF Extractor CLI")

@@ -1,5 +1,5 @@
-from .base_extractor import BaseExtractor
-from ..prompts.person_prompts import INITIAL_PROMPT
+from gztextractor.extractors.base_extractor import BaseExtractor
+from gztextractor.prompts.person_prompts import INITIAL_PROMPT
 from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser

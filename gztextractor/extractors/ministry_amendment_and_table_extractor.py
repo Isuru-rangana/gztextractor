@@ -1,7 +1,7 @@
 import json
-from .base_extractor import BaseExtractor
-from ..mergers.ministry_amendment_table import merge_minister_responses
-from ..prompts.ministry_prompts import INITIAL_PROMPT
+from gztextractor.extractors.base_extractor import BaseExtractor
+from gztextractor.mergers.ministry_amendment_table import merge_minister_responses
+from gztextractor.prompts.ministry_prompts import INITIAL_PROMPT
 from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser

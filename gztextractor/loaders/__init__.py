@@ -2,6 +2,6 @@
 Loaders module for handling PDF document loading.
 """
 
-from .pdf_loader import PDFLoader
+from gztextractor.loaders.pdf_loader import PDFLoader
 
 __all__ = ["PDFLoader"]

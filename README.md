@@ -1,5 +1,3 @@
-# gazzetExtractor1
-
 # LLM Based Gazette Extractor
 
 This project is specific for Sri Lankan Gazette Data Extraction. Mainly for Ministry/Department extra ordinary gazettes, amendments and People gazettes that assign Ministers, State Ministers, Deputy Ministers and Secretaries to ministries.
@@ -14,14 +12,14 @@ This project is specific for Sri Lankan Gazette Data Extraction. Mainly for Mini
 
 ### Install as Package from GitHub
 ```bash
-pip install git+https://github.com/Isuru-rangana/gazzetExtractor1.git
+pip install git+https://github.com/LDFLK/gztextractor.git
 ```
 
 ### For Linux Users (Alternative Installation)
 If you encounter dependency issues, use the Linux-compatible requirements:
 ```bash
-git clone https://github.com/Isuru-rangana/gazzetExtractor1.git
-cd gazzetExtractor1
+git clone https://github.com/LDFLK/gztextractor.git
+cd gztextractor
 pip install -r requirements_linux.txt
 pip install .
 ```
@@ -29,8 +27,8 @@ pip install .
 ### Development Setup
 #### Clone the repository
 ```bash
-git clone https://github.com/Isuru-rangana/gazzetExtractor1.git
-cd gazzetExtractor1
+git clone https://github.com/LDFLK/gztextractor.git
+cd gztextractor
 ```
 #### Create a virtual environment
 ```bash

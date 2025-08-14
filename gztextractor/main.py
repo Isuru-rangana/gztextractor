@@ -1,15 +1,15 @@
 import json
 from pathlib import Path
 
-from .extractors.ministry_amendment_and_table_extractor import MinistryAmendmentTableExtractor
-from .extractors.ministry_amendment_extractor import MinistryAmendmentExtractor
-from .extractors.ministry_extractor import MinistryExtractor
-from .extractors.person_extractor import PersonExtractor
-from .loaders.pdf_loader import PDFLoader
-from .mergers.ministry_amendment_merger import group_by_change_type
-from .mergers.ministry_amendment_table import merge_gazette_responses
-from .mergers.ministry_merger import merge_ministers
-from .mergers.person_merger import merge_person
+from gztextractor.extractors.ministry_amendment_and_table_extractor import MinistryAmendmentTableExtractor
+from gztextractor.extractors.ministry_amendment_extractor import MinistryAmendmentExtractor
+from gztextractor.extractors.ministry_extractor import MinistryExtractor
+from gztextractor.extractors.person_extractor import PersonExtractor
+from gztextractor.loaders.pdf_loader import PDFLoader
+from gztextractor.mergers.ministry_amendment_merger import group_by_change_type
+from gztextractor.mergers.ministry_amendment_table import merge_gazette_responses
+from gztextractor.mergers.ministry_merger import merge_ministers
+from gztextractor.mergers.person_merger import merge_person
 
 def run_pipeline(gazette_type: str, pdf_path: str, output_path: str):
     documents = PDFLoader(pdf_path).load()

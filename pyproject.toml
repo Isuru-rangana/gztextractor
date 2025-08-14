@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Isuru Rangana", email = "isuru.rangana@example.com"},
+    {name = "Lanka Data Foundation"},
 ]
 keywords = ["gazette", "extraction", "sri-lanka", "llm", "pdf", "nlp"]
 dependencies = [
@@ -136,9 +136,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Isuru-rangana/gazzetExtractor1"
-Repository = "https://github.com/Isuru-rangana/gazzetExtractor1.git"
-Issues = "https://github.com/Isuru-rangana/gazzetExtractor1/issues"
+Homepage = "https://github.com/LDFLK/gztextractor"
+Repository = "https://github.com/LDFLK/gztextractor.git"
+Issues = "https://github.com/LDFLK/gztextractor/issues"
 
 [project.scripts]
 gztextractor = "gztextractor.cli:main"
